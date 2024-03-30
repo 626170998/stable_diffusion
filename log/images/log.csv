@@ -1,0 +1,2 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt
+"Double Exposure Style, Volumetric Lighting, a girl Wrap top, light depth, dramatic atmospheric lighting, Volumetric Lighting, double image ghost effect, image combination, double exposure style",2239682674,768,1152,DPM++ 2S a,4.5,30,"00000-2239682674-Double Exposure Style, Volumetric Lighting, a girl Wrap top, light depth, dramatic atmospheric lighting, Volumetric Lighting, do.png","ugly, deformed, noisy, blurry, low contrast, ugly, deformed, noisy, blurry, low contrast"

@@ -1,0 +1,1 @@
+/mnt/workspace/stable-diffusion-webui/extensions/a1111-sd-webui-tagcomplete/tags

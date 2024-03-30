@@ -1,0 +1,118 @@
+{
+    "safetensors-metadata": {
+        "checkpoint/anything-v4.0-pruned-fp16.safetensors": {
+            "mtime": 1696261643.4701464,
+            "value": {}
+        },
+        "checkpoint/SDXLRonghua_v20.safetensors": {
+            "mtime": 1696473547.672105,
+            "value": {
+                "modelspec.sai_model_spec": "1.0.0",
+                "modelspec.author": "Fok",
+                "modelspec.encoder_layer": "2",
+                "modelspec.date": "2023-08-31T01:19:54",
+                "modelspec.architecture": "stable-diffusion-xl-v1-base",
+                "modelspec.title": "rh_group5",
+                "modelspec.implementation": "https://github.com/Stability-AI/generative-models",
+                "modelspec.prediction_type": "epsilon",
+                "modelspec.resolution": "1536x1536"
+            }
+        }
+    },
+    "hashes": {
+        "checkpoint/anything-v4.0-pruned-fp16.safetensors": {
+            "mtime": 1696261643.4701464,
+            "sha256": "d5f8393fea25972a9c010facc03e0a3cdec24213292105804f8078c3d88b9620"
+        },
+        "vae": {
+            "mtime": 1696261666.045324,
+            "sha256": "f921fb3f29891d2a77a6571e56b8b5052420d2884129517a333c60b1b4816cdf"
+        },
+        "checkpoint/SDXLRonghua_v20.safetensors": {
+            "mtime": 1696473547.672105,
+            "sha256": "01e01ebb1d93c38317bc719965cce40c312b80741c8717508176552f146f3317"
+        }
+    },
+    "extensions-git": {
+        "a1111-sd-webui-tagcomplete": {
+            "mtime": 1696261604.1338367,
+            "value": {
+                "remote": "https://gitcode.net/ranting8323/a1111-sd-webui-tagcomplete",
+                "commit_date": 1696196822,
+                "branch": "main",
+                "commit_hash": "446ac14e7fa9098b1dbc0ca53f4be6ef063b38fa",
+                "version": "446ac14e"
+            }
+        },
+        "sd-webui-additional-networks": {
+            "mtime": 1696261608.2928696,
+            "value": {
+                "remote": "https://gitcode.net/ranting8323/sd-webui-additional-networks",
+                "commit_date": 1684845075,
+                "branch": "main",
+                "commit_hash": "e9f3d622b5a98650008a685ea23b27eb810da35a",
+                "version": "e9f3d622"
+            }
+        },
+        "sd-webui-infinite-image-browsing": {
+            "mtime": 1696261610.9768906,
+            "value": {
+                "remote": "https://gitcode.net/ranting8323/sd-webui-infinite-image-browsing",
+                "commit_date": 1696160174,
+                "branch": "main",
+                "commit_hash": "11580b2b912ed3935c5d1118c143f21c0da2b662",
+                "version": "11580b2b"
+            }
+        },
+        "stable-diffusion-webui-localization-zh_Hans": {
+            "mtime": 1696261606.8238578,
+            "value": {
+                "remote": "https://gitcode.net/overbill1683/stable-diffusion-webui-localization-zh_Hans",
+                "commit_date": 1695974402,
+                "branch": "master",
+                "commit_hash": "2e839bf65796f31735d9f566572aa181483435d3",
+                "version": "2e839bf6"
+            }
+        },
+        "stable-diffusion-webui-wd14-tagger": {
+            "mtime": 1696261613.0059066,
+            "value": {
+                "remote": "https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger",
+                "commit_date": 1693532172,
+                "branch": "master",
+                "commit_hash": "3fb06011e693e598fe2e92d856b5f3e644922d55",
+                "version": "3fb06011"
+            }
+        },
+        "sd-webui-controlnet": {
+            "mtime": 1696300312.0039506,
+            "value": {
+                "remote": "https://githubfast.com/Mikubill/sd-webui-controlnet",
+                "commit_date": 1695406428,
+                "branch": "main",
+                "commit_hash": "7a4805c8ea3256a0eab3512280bd4f84ca0c8182",
+                "version": "7a4805c8"
+            }
+        },
+        "adetailer": {
+            "mtime": 1696313414.4079974,
+            "value": {
+                "remote": "https://github.com/Bing-su/adetailer.git",
+                "commit_date": 1695137727,
+                "branch": "main",
+                "commit_hash": "910bf3b9708c742e58fef3bd1fad7818537462b9",
+                "version": "910bf3b9"
+            }
+        },
+        "ebsynth_utility": {
+            "mtime": 1696300616.2882543,
+            "value": {
+                "remote": "https://gitcode.net/ranting8323/ebsynth_utility",
+                "commit_date": 1695772409,
+                "branch": "main",
+                "commit_hash": "a570bebc57c74842439483c4e662af2b583e4273",
+                "version": "a570bebc"
+            }
+        }
+    }
+}
